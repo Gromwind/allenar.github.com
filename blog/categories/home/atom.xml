@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Home | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Home | From House to Home]]></title>
   <link href="http://allenar.github.io/blog/categories/home/atom.xml" rel="self"/>
   <link href="http://allenar.github.io/"/>
-  <updated>2014-05-25T09:59:29+01:00</updated>
+  <updated>2014-05-25T10:03:21+01:00</updated>
   <id>http://allenar.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alex]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
