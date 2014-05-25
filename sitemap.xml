@@ -1,16 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://allenar.github.io/blog/2014/05/25/our-new-house-dot-dot-dot-maybe/</loc>
+        <lastmod>2014-05-25T11:03:36+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://allenar.github.io/blog/archives/</loc>
-        <lastmod>2014-05-25T10:35:01+01:00</lastmod>
+        <lastmod>2014-05-25T11:03:36+01:00</lastmod>
     </url>
     <url>
         <loc>http://allenar.github.io/blog/</loc>
-        <lastmod>2014-05-25T10:35:01+01:00</lastmod>
+        <lastmod>2014-05-25T11:03:36+01:00</lastmod>
     </url>
     <url>
         <loc>http://allenar.github.io/</loc>
-        <lastmod>2014-05-25T10:37:35+01:00</lastmod>
+        <lastmod>2014-05-25T11:03:36+01:00</lastmod>
     </url>
     <url>
         <loc>http://allenar.github.io/robots.txt</loc>
