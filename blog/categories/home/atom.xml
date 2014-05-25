@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Home | From House to Home]]></title>
   <link href="http://allenar.github.io/blog/categories/home/atom.xml" rel="self"/>
   <link href="http://allenar.github.io/"/>
-  <updated>2014-05-25T10:10:01+01:00</updated>
+  <updated>2014-05-25T10:14:14+01:00</updated>
   <id>http://allenar.github.io/</id>
   <author>
     <name><![CDATA[Alex Allen]]></name>
@@ -18,7 +18,11 @@
     <link href="http://allenar.github.io/blog/2014/05/25/our-new-house-dot-dot-dot-maybe/"/>
     <updated>2014-05-25T09:55:02+01:00</updated>
     <id>http://allenar.github.io/blog/2014/05/25/our-new-house-dot-dot-dot-maybe</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Some text here</p>
+
+<h1>H1</h1>
+
+<p>fdssdf</p>
 ]]></content>
   </entry>
   
