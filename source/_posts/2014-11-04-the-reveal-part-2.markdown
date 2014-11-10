@@ -3,7 +3,8 @@ layout: post
 title: "The Reveal Part 2"
 date: 2014-11-04 21:37:50 +0000
 comments: true
-categories: 
+categories: House, Before
+author: Alex Allen
 ---
 
 # Upstairs
