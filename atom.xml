@@ -4,7 +4,7 @@
   <title><![CDATA[From House to Home]]></title>
   <link href="http://allenar.github.io/atom.xml" rel="self"/>
   <link href="http://allenar.github.io/"/>
-  <updated>2014-11-10T08:44:58+00:00</updated>
+  <updated>2014-11-10T08:47:33+00:00</updated>
   <id>http://allenar.github.io/</id>
   <author>
     <name><![CDATA[Alex Allen]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Is It a Tree]]></title>
-    <link href="http://allenar.github.io/blog/2014/11/10/is-it-a-tree/"/>
+    <title type="html"><![CDATA[Is It a Tree Is It a Bush]]></title>
+    <link href="http://allenar.github.io/blog/2014/11/10/is-it-a-tree-is-it-a-bush/"/>
     <updated>2014-11-10T00:00:00+00:00</updated>
-    <id>http://allenar.github.io/blog/2014/11/10/is-it-a-tree</id>
+    <id>http://allenar.github.io/blog/2014/11/10/is-it-a-tree-is-it-a-bush</id>
     <content type="html"><![CDATA[<p>﻿&mdash;&ndash;
 layout: post
 title: &ldquo;Is it a Tree, Is it a Bush?&rdquo;
