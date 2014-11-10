@@ -10,4 +10,4 @@ categories: Garden
 
 In answering the question, it's a bush. It may not look like one given that it is absolutely massive, being as tall as the house and having over the fences on both sides but arboreally speaking (if that's even a word?!) it is indeed a bush.
 
-I had a friend who works in the landscaping trade come over and look at it and based on the size of it and lack of rear / side access he guessed that it would probably be a two day job for two guys and cost somewhere in the region of 
+I had a friend who works in the landscaping trade come over and look at it and based on the size of it and lack of rear / side access he guessed that it would probably be a two day job for two guys and cost somewhere in the region of £
