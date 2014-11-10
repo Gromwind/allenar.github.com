@@ -22,11 +22,11 @@ It may not look that safe, a bloke brandishing a saw precariously perched on the
 
 ![alt text](https://allenar.github.com/images/IMG_23.JPG "Beware the Foreman!")
 
-After making a fairly good dent to the lower branches and the tops towards and lefthand side I had to go overseas to work for a couple of weeks. Not wanting to lose momentum I hired some labour while I was away. The petrol chipper / shredder did a really good job on the stuff that had been cut down and we even managed to reclaim a little bit of the garden but it was definitely going to be shortlived.
+After making a fairly good dent to the lower branches and the tops towards and left-hand side I had to go overseas to work for a couple of weeks. Not wanting to lose momentum I hired some labour while I was away. The petrol chipper / shredder did a really good job on the stuff that had been cut down and we even managed to reclaim a little bit of the garden but it was definitely going to be short-lived.
 
 ![alt text](https://allenar.github.com/images/IMG_24.JPG "Labour")
 
-More sawing and plenty of late nights working away with only the light of a headtorch to guide me and eventually I got to this.
+More sawing and plenty of late nights working away with only the light of a head torch to guide me and eventually I got to this.
 
 ![alt text](https://allenar.github.com/images/IMG_25.JPG "Getting there")
 
@@ -34,7 +34,7 @@ I'd done a lot of the hard work but there was no way I was going to get rid of t
 
 ![alt text](https://allenar.github.com/images/IMG_26.JPG "Tree Guys")
 
-Sunday, Dad and Chainsaw. Three things which when combined will make a really big dent in any bush-tree. I was predominantly on rope duty trying to make sure that we didn't destory neighbours fences or sheds in the process and on the whole I think we did a farily good job. So after reclaiming the garden a couple of weeks ago the bush had once again taken over it but this time I was just a means to an end.
+Sunday, Dad and Chainsaw. Three things which when combined will make a really big dent in any bush-tree. I was predominantly on rope duty trying to make sure that we didn't destroy neighbours fences or sheds in the process and on the whole I think we did a fairly good job. So after reclaiming the garden a couple of weeks ago the bush had once again taken over it but this time I was just a means to an end.
 
 ![alt text](https://allenar.github.com/images/IMG_27.JPG "Piles")
 So we cut down everything that was left, right back to the base. That was the point at which I was really stumped (sorry, it was too good an opportunity to miss!). How do you get rid of a "stump" that is this massive?!
