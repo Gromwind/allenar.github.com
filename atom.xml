@@ -4,7 +4,7 @@
   <title><![CDATA[From House to Home]]></title>
   <link href="http://allenar.github.io/atom.xml" rel="self"/>
   <link href="http://allenar.github.io/"/>
-  <updated>2014-11-04T21:56:59+00:00</updated>
+  <updated>2014-11-10T08:19:42+00:00</updated>
   <id>http://allenar.github.io/</id>
   <author>
     <name><![CDATA[Alex Allen]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Is It a Tree? Is It a Bush?]]></title>
+    <link href="http://allenar.github.io/blog/2014/11/07/is-it-a-tree-is-it-a-bush/"/>
+    <updated>2014-11-07T22:10:01+00:00</updated>
+    <id>http://allenar.github.io/blog/2014/11/07/is-it-a-tree-is-it-a-bush</id>
+    <content type="html"><![CDATA[<p><img src="https://allenar.github.com/images/IMG_21.JPG" title="Before" alt="alt text" /></p>
+
+<p>In</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Reveal Part 2]]></title>
