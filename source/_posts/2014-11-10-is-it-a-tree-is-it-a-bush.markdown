@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Is it a Tree, Is it a Bush?"
+title: "Is it a Tree or is it a Bush?"
 date: 2014-11-10 08:43:52 +0000
 comments: true
 categories: Garden
