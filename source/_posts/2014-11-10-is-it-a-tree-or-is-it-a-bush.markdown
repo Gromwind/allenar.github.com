@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is it a tree or is it a bush"
 date: 2014-11-10 18:45:06 +0000
