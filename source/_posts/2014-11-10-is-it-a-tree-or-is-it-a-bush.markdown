@@ -20,7 +20,7 @@ After about two evenings elapsed time and four hours of work it might not look l
 
 ![alt text](https://allenar.github.com/images/IMG_023.JPG "Beware the Foreman!")
 
-After making a fairly decent dent to the lower branches and the tops on the left-hand side I had to go overseas for a couple of weeks. Not wanting to lose momentum I hired some labour while I was away... the petrol chipper / shredder did a really good job on the stuff that had been but down and we even managed to reclaim a little bit of the garden. It was short-lived though.
+After making a fairly decent dent to the lower branches and the tops on the left-hand side I had to go overseas for a couple of weeks. Not wanting to lose momentum I hired some labour while I was away... the petrol chipper / shredder did a really good job on the stuff that had been cut down and we even managed to reclaim a little bit of the garden. It was short-lived though.
 
 ![alt text](https://allenar.github.com/images/IMG_024.JPG "Labour")
 
@@ -32,7 +32,7 @@ I'd done a lot of hard work but there was no way I was going to get rid of the b
 
 ![alt text](https://allenar.github.com/images/IMG_026.JPG "Tree Fellas")
 
-Sunday, Dad and a chainsaw. Three things which when combined will take on any bush. I did head from somewhere that it would have been easier with tree fellers, but there was only the two of us available so two fellas it was. I was predominantly on rope duty trying to make sure that we didn't destroy the neighbours fences or sheds in the process and I think we did a good job. I haven't had any complaints so far.
+Sunday, Dad and a chainsaw. Three things which when combined will take on any bush. I did hear from somewhere that it would have been easier with tree fellers, but there was only the two of us available so two fellas it was. I was predominantly on rope duty trying to make sure that we didn't destroy the neighbours fences or sheds in the process and I think we did a good job. I haven't had any complaints so far.
 
 So after reclaiming the garden a couple of weeks ago the bush had once again taken over but this time it would only be temporary and certainly wouldn't be growing.
 
@@ -42,6 +42,6 @@ So we cut down everything that was left, all the way back to the "stump". That w
 
 ![alt text](https://allenar.github.com/images/IMG_028.JPG "Stumped")
 
-Do I just keep taking chunks out of it with a chainsaw, do I get some sort of chemicals to try and kill it off with perhaps trying and get some sort of digger in? At this stage I don't how the answer so I've chosen to do option four. Nothing.
+Do I just keep taking chunks out of it with a chainsaw, do I get some sort of chemicals to try and kill it off with perhaps try and get some sort of digger in? At this stage I don't know the answer so I've chosen to do option four. Nothing.
 
 Does anyone have any experience removing something of this size? Can  you get stump grinders this big?
